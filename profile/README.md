@@ -24,9 +24,7 @@
     <td align="center" valign="top" width="14.28%"><img src="https://github.com/Upsonic/.github/assets/41792982/efeb160a-e47f-46ec-ac0e-c2b5680f4cd5" width="100px;" alt="Emrah Samdan"/><br /><b>Emrah Şamdan</b><br /> <sub>Senior product manager</sub><br /><br /> <br /><a href="https://www.linkedin.com/in/emrahsamdan/" title="Linkedin">Linkedin</a></td>   
   </tr> 
  <td align="center" valign="top" width="14.28%"><img src="https://github.com/Upsonic/.github/assets/41792982/58a2962f-499b-4b65-88e4-d5fe3e2080c4" width="100px;" alt="Halil İbrahim Yıldırım"/><br /><b>Halil İbrahim Yıldırım</b><br /> <sub>Head of data science</sub><br /><br /> <br /><a href="https://www.linkedin.com/in/halilibrahimyildirim/" title="Linkedin">Linkedin</a></td>   
-
  <td align="center" valign="top" width="14.28%"><img src="https://github.com/user-attachments/assets/f5292b11-9098-495f-a407-e417b9f6cb17" width="100px;" alt="M. Fuad Bayrak"/><br /><b>M. Fuad Bayrak</b><br /> <sub>Data Science & Analytics Manager</sub><br /> BiTaksi <br /><a href="https://www.linkedin.com/in/fuadbayrak/" title="Linkedin">Linkedin</a></td>   
-
     </tr>  
   </tbody>
 </table>
